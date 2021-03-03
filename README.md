@@ -1,6 +1,4 @@
-bbb_comm
+# bbbs7com
 ========
 
-Beaglebone Black Communication Experiments
-
-By Joakim Skjefstad
+Beaglebone Black communication experiments, using S7 (SNAP7).
